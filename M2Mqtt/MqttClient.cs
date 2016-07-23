@@ -46,6 +46,7 @@ using Windows.Networking.Sockets;
 #endif
 
 using System.Collections;
+using System.Net.Security;
 
 // alias needed due to Microsoft.SPOT.Trace in .Net Micro Framework
 // (it's ambiguos with uPLibrary.Networking.M2Mqtt.Utility.Trace)
